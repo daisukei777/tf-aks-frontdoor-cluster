@@ -9,3 +9,4 @@ variable "rp_resource_group_location_2" {
 
 variable "rp_resource_group_location_3" {
 }
+

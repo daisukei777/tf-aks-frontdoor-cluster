@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# Please Specify Resouce Identifier (ex. daisukei99)
-export TF_VAR_rp_prefix="daisukeiaksrs"
+# Please Specify Resouce Identifier (ex. daisuke)
+export TF_VAR_rp_prefix="YourResouceIdentifier"
 
 # 1st region
 export TF_VAR_rp_resource_group_location_1="japanwest"
